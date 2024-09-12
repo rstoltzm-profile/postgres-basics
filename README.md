@@ -4,9 +4,9 @@
 
 
 ```bash
-docker-compose build
-docker-compose up
-docker-compose down
+docker-compose build;
+docker-compose up;
+docker-compose down;
 ```
 
 1. go to http://localhost:8080/
